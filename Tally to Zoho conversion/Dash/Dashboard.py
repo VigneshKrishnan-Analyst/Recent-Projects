@@ -7,7 +7,8 @@ import plotly.express as px
 import dash_bootstrap_components as dbc
 from dash import callback_context
 
-df = pd.read_excel('data.xlsx')
+url = 'https://raw.githubusercontent.com/VigneshKrishnan-Analyst/Recent-Projects/main/Tally%20to%20Zoho%20conversion/Dash/Data/data.csv'
+df = pd.csv(url)
 chart1_df = df.loc[df['Type'] == "Sales"]
 chart2_dict_temp = {}
 temp_list = ['profit']
