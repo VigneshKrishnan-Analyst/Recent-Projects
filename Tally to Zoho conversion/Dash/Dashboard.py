@@ -8,7 +8,7 @@ import dash_bootstrap_components as dbc
 from dash import callback_context
 
 url = 'https://raw.githubusercontent.com/VigneshKrishnan-Analyst/Recent-Projects/main/Tally%20to%20Zoho%20conversion/Dash/Data/data.csv'
-df = pd.csv(url)
+df = pd.read_csv(url)
 chart1_df = df.loc[df['Type'] == "Sales"]
 chart2_dict_temp = {}
 temp_list = ['profit']
@@ -34,15 +34,22 @@ app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SLATE],
 server = app.server
 
 app.layout = dbc.Container([
-    dbc.Row(
-        dbc.Col(
-            html.H1("Company Private Limited", className='text-xl-center text-capitalize mb-5 mt-5'),
-            width=12
-        )
+    dbc.Navbar(
+        children=[
+            dbc.Col(dbc.NavLink("Clients Company Name", href="#",className='text-xl-left text-capitalize bold font-weight-bolder'),width=8,className='text-capitalize' ),
+            dbc.Col(dbc.NavItem(dbc.NavLink("LinkedIn", href="https://www.linkedin.com/in/vignesh-krishnan-a2136b1bb",className='text-xl-center')),width=2),
+            dbc.Col(dbc.NavItem(dbc.NavLink("GitHub", href="https://github.com/VigneshKrishnan-Analyst",className='text-xl-center')),width=2),
+        ],
+        color="dark",
+        className='mb-2.5 mt-2.5'
+
+
+
+
     ),
     dbc.Row(
             dbc.Col(
-                html.H1("Hover over the pie charts to see the bar graph update !!"),
+                html.H1("Hover over the pie charts to see the bar graph update !!", className="mb-5 mt-2.5 text-sm-center"),
                 width=12
             )
         ),
@@ -64,7 +71,7 @@ app.layout = dbc.Container([
                       },
                       # className=
 
-                      ), width=4),
+                      ), xs=12, sm=12, md=12, lg=4, xl=4),
             dbc.Col(
                 dcc.Graph(id="Expense_mix",
                           figure=px.pie(data_frame=chart2_df, names='Expense', values='Amount',
@@ -82,7 +89,7 @@ app.layout = dbc.Container([
                           },
                           # className=
 
-                          ), width=4),
+                          ), xs=12, sm=12, md=12, lg=4, xl=4),
             dbc.Col(
                 dcc.Graph(id="monthly_breakup",
                           figure={},
@@ -98,7 +105,7 @@ app.layout = dbc.Container([
                           },
                           # className=
 
-                          ), width=4)
+                          ), xs=12, sm=12, md=12, lg=4, xl=4)
         ]
     )
 
@@ -133,4 +140,4 @@ def update_monthly_graph_expense(hov_data1, hov_data2):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True, port=5000)
+    app.run_server(debug=True)
