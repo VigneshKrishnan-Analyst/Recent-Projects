@@ -1,0 +1,829 @@
+﻿Direction,State/UT,Month,Year,Type,Voucher No,Account,Amount,Contact
+South,Tamil Nadu,April,2020,Sales,1,Sales International,3636589,Person Incharge : D
+South,Tamil Nadu,May,2020,Sales,2,Sales International,2181953.4,Person Incharge : D
+South,Tamil Nadu,June,2020,Sales,3,Commission,1309172.04,Person Incharge : D
+South,Tamil Nadu,July,2020,Sales,4,Sales Local,2181953.4,Person Incharge : D
+South,Tamil Nadu,August,2020,Sales,5,Sales International,1309172.04,Person Incharge : D
+South,Tamil Nadu,September,2020,Sales,6,Sales International,3636589,Person Incharge : D
+South,Tamil Nadu,October,2020,Sales,7,Sales Local,2181953.4,Person Incharge : D
+South,Tamil Nadu,November,2020,Sales,8,Sales Local,1309172.04,Person Incharge : D
+South,Tamil Nadu,December,2020,Sales,9,Sales Local,785503.224,Person Incharge : D
+South,Tamil Nadu,January,2020,Sales,10,Sales Local,1309172.04,Person Incharge : D
+South,Tamil Nadu,February,2020,Sales,11,Sales International,785503.224,Person Incharge : D
+South,Tamil Nadu,March,2020,Sales,12,Sales Local,2181953.4,Person Incharge : D
+South,Tamil Nadu,September,2020,Sales,6,Commission,1309172.04,Person Incharge : D
+South,Tamil Nadu,October,2020,Sales,7,Commission,785503.224,Person Incharge : D
+South,Tamil Nadu,November,2020,Sales,8,Commission,471301.934,Person Incharge : D
+South,Tamil Nadu,December,2020,Sales,9,Commission,785503.224,Person Incharge : D
+South,Tamil Nadu,January,2020,Sales,10,Commission,471301.934,Person Incharge : D
+South,Tamil Nadu,April,2020,Purchases,1,Purchases - Local,1818294.5,Person Incharge : D
+South,Tamil Nadu,May,2020,Purchases,2,Purchases - Local,1090976.7,Person Incharge : D
+South,Tamil Nadu,June,2020,Purchases,3,Purchases - Local,654586.02,Person Incharge : D
+South,Tamil Nadu,July,2020,Purchases,4,Purchases - Local,1090976.7,Person Incharge : D
+South,Tamil Nadu,August,2020,Purchases,5,Purchases - Local,654586.02,Person Incharge : D
+South,Tamil Nadu,September,2020,Purchases,6,Purchases - Local,1818294.5,Person Incharge : D
+South,Tamil Nadu,October,2020,Purchases,7,Purchases - Local,1090976.7,Person Incharge : D
+South,Tamil Nadu,November,2020,Purchases,8,Purchases - Local,654586.02,Person Incharge : D
+South,Tamil Nadu,December,2020,Purchases,9,Purchases - Abroad,392751.612,Person Incharge : D
+South,Tamil Nadu,January,2020,Purchases,10,Purchases - Abroad,654586.02,Person Incharge : D
+South,Tamil Nadu,February,2020,Purchases,11,Purchases - Abroad,392751.612,Person Incharge : D
+South,Tamil Nadu,March,2020,Purchases,12,Purchases - Abroad,1090976.7,Person Incharge : D
+South,Tamil Nadu,April,2020,Expense,1,Computer Maintenance,290927.12,Person Incharge : D
+South,Tamil Nadu,July,2020,Expense,2,Computer Maintenance,174556.272,Person Incharge : D
+South,Tamil Nadu,October,2020,Expense,3,Computer Maintenance,104733.763,Person Incharge : D
+South,Tamil Nadu,January,2020,Expense,4,Computer Maintenance,174556.272,Person Incharge : D
+South,Tamil Nadu,April,2020,Expense,5,Misc Expense,327293.01,Person Incharge : D
+South,Tamil Nadu,May,2020,Expense,6,Misc Expense,196375.806,Person Incharge : D
+South,Tamil Nadu,June,2020,Expense,7,Misc Expense,117825.484,Person Incharge : D
+South,Tamil Nadu,July,2020,Expense,8,Misc Expense,196375.806,Person Incharge : D
+South,Tamil Nadu,August,2020,Expense,9,Misc Expense,117825.484,Person Incharge : D
+South,Tamil Nadu,September,2020,Expense,10,Misc Expense,327293.01,Person Incharge : D
+South,Tamil Nadu,October,2020,Expense,11,Misc Expense,196375.806,Person Incharge : D
+South,Tamil Nadu,November,2020,Expense,12,Misc Expense,117825.484,Person Incharge : D
+South,Tamil Nadu,December,2020,Expense,13,Misc Expense,70695.29,Person Incharge : D
+South,Tamil Nadu,January,2020,Expense,14,Misc Expense,117825.484,Person Incharge : D
+South,Tamil Nadu,February,2020,Expense,15,Misc Expense,70695.29,Person Incharge : D
+South,Tamil Nadu,March,2020,Expense,16,Misc Expense,196375.806,Person Incharge : D
+South,Tamil Nadu,April,2020,Expense,17,Repairs and Maintenance,363658.9,Person Incharge : D
+South,Tamil Nadu,May,2020,Expense,18,Repairs and Maintenance,218195.34,Person Incharge : D
+South,Tamil Nadu,June,2020,Expense,19,Repairs and Maintenance,130917.204,Person Incharge : D
+South,Tamil Nadu,July,2020,Expense,20,Repairs and Maintenance,218195.34,Person Incharge : D
+South,Tamil Nadu,August,2020,Expense,21,Repairs and Maintenance,130917.204,Person Incharge : D
+South,Tamil Nadu,September,2020,Expense,22,Repairs and Maintenance,363658.9,Person Incharge : D
+South,Tamil Nadu,October,2020,Expense,23,Repairs and Maintenance,218195.34,Person Incharge : D
+South,Tamil Nadu,November,2020,Expense,24,Repairs and Maintenance,130917.204,Person Incharge : D
+South,Tamil Nadu,December,2020,Expense,25,Repairs and Maintenance,78550.322,Person Incharge : D
+South,Tamil Nadu,January,2020,Expense,26,Repairs and Maintenance,130917.204,Person Incharge : D
+South,Tamil Nadu,February,2020,Expense,27,Repairs and Maintenance,78550.322,Person Incharge : D
+South,Tamil Nadu,March,2020,Expense,28,Repairs and Maintenance,218195.34,Person Incharge : D
+South,Tamil Nadu,April,2020,Expense,5,Salary and wages,472756.57,Person Incharge : D
+South,Tamil Nadu,May,2020,Expense,6,Salary and wages,283653.942,Person Incharge : D
+South,Tamil Nadu,June,2020,Expense,7,Salary and wages,170192.365,Person Incharge : D
+South,Tamil Nadu,July,2020,Expense,8,Salary and wages,283653.942,Person Incharge : D
+South,Tamil Nadu,August,2020,Expense,9,Salary and wages,170192.365,Person Incharge : D
+South,Tamil Nadu,September,2020,Expense,10,Salary and wages,472756.57,Person Incharge : D
+South,Tamil Nadu,October,2020,Expense,11,Salary and wages,283653.942,Person Incharge : D
+South,Tamil Nadu,November,2020,Expense,12,Salary and wages,170192.365,Person Incharge : D
+South,Tamil Nadu,December,2020,Expense,13,Salary and wages,102115.419,Person Incharge : D
+South,Tamil Nadu,January,2020,Expense,14,Salary and wages,170192.365,Person Incharge : D
+South,Tamil Nadu,February,2020,Expense,15,Salary and wages,102115.419,Person Incharge : D
+South,Tamil Nadu,March,2020,Expense,16,Salary and wages,283653.942,Person Incharge : D
+South,Karnataka,April,2020,Sales,1,Sales International,2909271.2,Person Incharge : C
+South,Karnataka,May,2020,Sales,2,Sales International,1745562.72,Person Incharge : C
+South,Karnataka,June,2020,Sales,3,Commission,1047337.632,Person Incharge : C
+South,Karnataka,July,2020,Sales,4,Sales Local,1745562.72,Person Incharge : C
+South,Karnataka,August,2020,Sales,5,Sales International,1047337.632,Person Incharge : C
+South,Karnataka,September,2020,Sales,6,Sales International,2909271.2,Person Incharge : C
+South,Karnataka,October,2020,Sales,7,Sales Local,1745562.72,Person Incharge : C
+South,Karnataka,November,2020,Sales,8,Sales Local,1047337.632,Person Incharge : C
+South,Karnataka,December,2020,Sales,9,Sales Local,628402.579,Person Incharge : C
+South,Karnataka,January,2020,Sales,10,Sales Local,1047337.632,Person Incharge : C
+South,Karnataka,February,2020,Sales,11,Sales International,628402.579,Person Incharge : C
+South,Karnataka,March,2020,Sales,12,Sales Local,1745562.72,Person Incharge : C
+South,Karnataka,September,2020,Sales,6,Commission,1047337.632,Person Incharge : C
+South,Karnataka,October,2020,Sales,7,Commission,628402.579,Person Incharge : C
+South,Karnataka,November,2020,Sales,8,Commission,377041.548,Person Incharge : C
+South,Karnataka,December,2020,Sales,9,Commission,628402.579,Person Incharge : C
+South,Karnataka,January,2020,Sales,10,Commission,377041.548,Person Incharge : C
+South,Karnataka,April,2020,Purchases,1,Purchases - Abroad,1454635.6,Person Incharge : C
+South,Karnataka,May,2020,Purchases,2,Purchases - Abroad,872781.36,Person Incharge : C
+South,Karnataka,June,2020,Purchases,3,Purchases - Abroad,523668.816,Person Incharge : C
+South,Karnataka,July,2020,Purchases,4,Purchases - Abroad,872781.36,Person Incharge : C
+South,Karnataka,August,2020,Purchases,5,Purchases - Abroad,523668.816,Person Incharge : C
+South,Karnataka,September,2020,Purchases,6,Purchases - Abroad,1454635.6,Person Incharge : C
+South,Karnataka,October,2020,Purchases,7,Purchases - Abroad,872781.36,Person Incharge : C
+South,Karnataka,November,2020,Purchases,8,Purchases - Abroad,523668.816,Person Incharge : C
+South,Karnataka,December,2020,Purchases,9,Purchases - Local,314201.29,Person Incharge : C
+South,Karnataka,January,2020,Purchases,10,Purchases - Local,523668.816,Person Incharge : C
+South,Karnataka,February,2020,Purchases,11,Purchases - Local,314201.29,Person Incharge : C
+South,Karnataka,March,2020,Purchases,12,Purchases - Local,872781.36,Person Incharge : C
+South,Karnataka,April,2020,Expense,1,Computer Maintenance,232741.696,Person Incharge : C
+South,Karnataka,July,2020,Expense,2,Computer Maintenance,139645.018,Person Incharge : C
+South,Karnataka,October,2020,Expense,3,Computer Maintenance,83787.011,Person Incharge : C
+South,Karnataka,January,2020,Expense,4,Computer Maintenance,139645.018,Person Incharge : C
+South,Karnataka,April,2020,Expense,5,Misc Expense,261834.408,Person Incharge : C
+South,Karnataka,May,2020,Expense,6,Misc Expense,157100.645,Person Incharge : C
+South,Karnataka,June,2020,Expense,7,Misc Expense,94260.387,Person Incharge : C
+South,Karnataka,July,2020,Expense,8,Misc Expense,157100.645,Person Incharge : C
+South,Karnataka,August,2020,Expense,9,Misc Expense,94260.387,Person Incharge : C
+South,Karnataka,September,2020,Expense,10,Misc Expense,261834.408,Person Incharge : C
+South,Karnataka,October,2020,Expense,11,Misc Expense,157100.645,Person Incharge : C
+South,Karnataka,November,2020,Expense,12,Misc Expense,94260.387,Person Incharge : C
+South,Karnataka,December,2020,Expense,13,Misc Expense,56556.232,Person Incharge : C
+South,Karnataka,January,2020,Expense,14,Misc Expense,94260.387,Person Incharge : C
+South,Karnataka,February,2020,Expense,15,Misc Expense,56556.232,Person Incharge : C
+South,Karnataka,March,2020,Expense,16,Misc Expense,157100.645,Person Incharge : C
+South,Karnataka,April,2020,Expense,17,Repairs and Maintenance,290927.12,Person Incharge : C
+South,Karnataka,May,2020,Expense,18,Repairs and Maintenance,174556.272,Person Incharge : C
+South,Karnataka,June,2020,Expense,19,Repairs and Maintenance,104733.763,Person Incharge : C
+South,Karnataka,July,2020,Expense,20,Repairs and Maintenance,174556.272,Person Incharge : C
+South,Karnataka,August,2020,Expense,21,Repairs and Maintenance,104733.763,Person Incharge : C
+South,Karnataka,September,2020,Expense,22,Repairs and Maintenance,290927.12,Person Incharge : C
+South,Karnataka,October,2020,Expense,23,Repairs and Maintenance,174556.272,Person Incharge : C
+South,Karnataka,November,2020,Expense,24,Repairs and Maintenance,104733.763,Person Incharge : C
+South,Karnataka,December,2020,Expense,25,Repairs and Maintenance,62840.258,Person Incharge : C
+South,Karnataka,January,2020,Expense,26,Repairs and Maintenance,104733.763,Person Incharge : C
+South,Karnataka,February,2020,Expense,27,Repairs and Maintenance,62840.258,Person Incharge : C
+South,Karnataka,March,2020,Expense,28,Repairs and Maintenance,174556.272,Person Incharge : C
+South,Karnataka,April,2020,Expense,5,Salary and wages,378205.256,Person Incharge : C
+South,Karnataka,May,2020,Expense,6,Salary and wages,226923.154,Person Incharge : C
+South,Karnataka,June,2020,Expense,7,Salary and wages,136153.892,Person Incharge : C
+South,Karnataka,July,2020,Expense,8,Salary and wages,226923.154,Person Incharge : C
+South,Karnataka,August,2020,Expense,9,Salary and wages,136153.892,Person Incharge : C
+South,Karnataka,September,2020,Expense,10,Salary and wages,378205.256,Person Incharge : C
+South,Karnataka,October,2020,Expense,11,Salary and wages,226923.154,Person Incharge : C
+South,Karnataka,November,2020,Expense,12,Salary and wages,136153.892,Person Incharge : C
+South,Karnataka,December,2020,Expense,13,Salary and wages,81692.335,Person Incharge : C
+South,Karnataka,January,2020,Expense,14,Salary and wages,136153.892,Person Incharge : C
+South,Karnataka,February,2020,Expense,15,Salary and wages,81692.335,Person Incharge : C
+South,Karnataka,March,2020,Expense,16,Salary and wages,226923.154,Person Incharge : C
+South,Kerala,April,2020,Sales,1,Sales International,1163708.48,Person Incharge : D
+South,Kerala,May,2020,Sales,2,Sales International,698225.088,Person Incharge : D
+South,Kerala,June,2020,Sales,3,Commission,418935.053,Person Incharge : D
+South,Kerala,July,2020,Sales,4,Sales Local,698225.088,Person Incharge : D
+South,Kerala,August,2020,Sales,5,Sales International,418935.053,Person Incharge : D
+South,Kerala,September,2020,Sales,6,Sales International,1163708.48,Person Incharge : D
+South,Kerala,October,2020,Sales,7,Sales Local,698225.088,Person Incharge : D
+South,Kerala,November,2020,Sales,8,Sales Local,418935.053,Person Incharge : D
+South,Kerala,December,2020,Sales,9,Sales Local,251361.032,Person Incharge : D
+South,Kerala,January,2020,Sales,10,Sales Local,418935.053,Person Incharge : D
+South,Kerala,February,2020,Sales,11,Sales International,251361.032,Person Incharge : D
+South,Kerala,March,2020,Sales,12,Sales Local,698225.088,Person Incharge : D
+South,Kerala,September,2020,Sales,6,Commission,418935.053,Person Incharge : D
+South,Kerala,October,2020,Sales,7,Commission,251361.032,Person Incharge : D
+South,Kerala,November,2020,Sales,8,Commission,150816.619,Person Incharge : D
+South,Kerala,December,2020,Sales,9,Commission,251361.032,Person Incharge : D
+South,Kerala,January,2020,Sales,10,Commission,150816.619,Person Incharge : D
+South,Kerala,April,2020,Purchases,1,Purchases - Local,1090976.7,Person Incharge : D
+South,Kerala,May,2020,Purchases,2,Purchases - Local,654586.02,Person Incharge : D
+South,Kerala,June,2020,Purchases,3,Purchases - Local,392751.612,Person Incharge : D
+South,Kerala,July,2020,Purchases,4,Purchases - Local,654586.02,Person Incharge : D
+South,Kerala,August,2020,Purchases,5,Purchases - Local,392751.612,Person Incharge : D
+South,Kerala,September,2020,Purchases,6,Purchases - Local,1090976.7,Person Incharge : D
+South,Kerala,October,2020,Purchases,7,Purchases - Abroad,654586.02,Person Incharge : D
+South,Kerala,November,2020,Purchases,8,Purchases - Abroad,392751.612,Person Incharge : D
+South,Kerala,December,2020,Purchases,9,Purchases - Abroad,235650.967,Person Incharge : D
+South,Kerala,January,2020,Purchases,10,Purchases - Abroad,392751.612,Person Incharge : D
+South,Kerala,February,2020,Purchases,11,Purchases - Abroad,235650.967,Person Incharge : D
+South,Kerala,March,2020,Purchases,12,Purchases - Abroad,654586.02,Person Incharge : D
+South,Kerala,April,2020,Expense,1,Computer Maintenance,174556.272,Person Incharge : D
+South,Kerala,July,2020,Expense,2,Computer Maintenance,104733.763,Person Incharge : D
+South,Kerala,October,2020,Expense,3,Computer Maintenance,62840.258,Person Incharge : D
+South,Kerala,January,2020,Expense,4,Computer Maintenance,104733.763,Person Incharge : D
+South,Kerala,April,2020,Expense,5,Misc Expense,196375.806,Person Incharge : D
+South,Kerala,May,2020,Expense,6,Misc Expense,117825.484,Person Incharge : D
+South,Kerala,June,2020,Expense,7,Misc Expense,70695.29,Person Incharge : D
+South,Kerala,July,2020,Expense,8,Misc Expense,117825.484,Person Incharge : D
+South,Kerala,August,2020,Expense,9,Misc Expense,70695.29,Person Incharge : D
+South,Kerala,September,2020,Expense,10,Misc Expense,196375.806,Person Incharge : D
+South,Kerala,October,2020,Expense,11,Misc Expense,117825.484,Person Incharge : D
+South,Kerala,November,2020,Expense,12,Misc Expense,70695.29,Person Incharge : D
+South,Kerala,December,2020,Expense,13,Misc Expense,42417.174,Person Incharge : D
+South,Kerala,January,2020,Expense,14,Misc Expense,70695.29,Person Incharge : D
+South,Kerala,February,2020,Expense,15,Misc Expense,42417.174,Person Incharge : D
+South,Kerala,March,2020,Expense,16,Misc Expense,117825.484,Person Incharge : D
+South,Kerala,April,2020,Expense,17,Repairs and Maintenance,218195.34,Person Incharge : D
+South,Kerala,May,2020,Expense,18,Repairs and Maintenance,130917.204,Person Incharge : D
+South,Kerala,June,2020,Expense,19,Repairs and Maintenance,78550.322,Person Incharge : D
+South,Kerala,July,2020,Expense,20,Repairs and Maintenance,130917.204,Person Incharge : D
+South,Kerala,August,2020,Expense,21,Repairs and Maintenance,78550.322,Person Incharge : D
+South,Kerala,September,2020,Expense,22,Repairs and Maintenance,218195.34,Person Incharge : D
+South,Kerala,October,2020,Expense,23,Repairs and Maintenance,130917.204,Person Incharge : D
+South,Kerala,November,2020,Expense,24,Repairs and Maintenance,78550.322,Person Incharge : D
+South,Kerala,December,2020,Expense,25,Repairs and Maintenance,47130.193,Person Incharge : D
+South,Kerala,January,2020,Expense,26,Repairs and Maintenance,78550.322,Person Incharge : D
+South,Kerala,February,2020,Expense,27,Repairs and Maintenance,47130.193,Person Incharge : D
+South,Kerala,March,2020,Expense,28,Repairs and Maintenance,130917.204,Person Incharge : D
+South,Kerala,April,2020,Expense,5,Salary and wages,283653.942,Person Incharge : D
+South,Kerala,May,2020,Expense,6,Salary and wages,170192.365,Person Incharge : D
+South,Kerala,June,2020,Expense,7,Salary and wages,102115.419,Person Incharge : D
+South,Kerala,July,2020,Expense,8,Salary and wages,170192.365,Person Incharge : D
+South,Kerala,August,2020,Expense,9,Salary and wages,102115.419,Person Incharge : D
+South,Kerala,September,2020,Expense,10,Salary and wages,283653.942,Person Incharge : D
+South,Kerala,October,2020,Expense,11,Salary and wages,170192.365,Person Incharge : D
+South,Kerala,November,2020,Expense,12,Salary and wages,102115.419,Person Incharge : D
+South,Kerala,December,2020,Expense,13,Salary and wages,61269.251,Person Incharge : D
+South,Kerala,January,2020,Expense,14,Salary and wages,102115.419,Person Incharge : D
+South,Kerala,February,2020,Expense,15,Salary and wages,61269.251,Person Incharge : D
+South,Kerala,March,2020,Expense,16,Salary and wages,170192.365,Person Incharge : D
+North,Ladakh,April,2020,Sales,1,Sales International,2272868.125,Person Incharge : A
+North,Ladakh,May,2020,Sales,2,Sales International,1363720.875,Person Incharge : A
+North,Ladakh,June,2020,Sales,3,Commission,818232.525,Person Incharge : A
+North,Ladakh,July,2020,Sales,4,Sales Local,1363720.875,Person Incharge : A
+North,Ladakh,August,2020,Sales,5,Sales International,818232.525,Person Incharge : A
+North,Ladakh,September,2020,Sales,6,Sales International,2272868.125,Person Incharge : A
+North,Ladakh,October,2020,Sales,7,Sales Local,1363720.875,Person Incharge : A
+North,Ladakh,November,2020,Sales,8,Sales Local,818232.525,Person Incharge : A
+North,Ladakh,December,2020,Sales,9,Sales Local,490939.515,Person Incharge : A
+North,Ladakh,January,2020,Sales,10,Sales Local,818232.525,Person Incharge : A
+North,Ladakh,February,2020,Sales,11,Sales International,490939.515,Person Incharge : A
+North,Ladakh,March,2020,Sales,12,Sales Local,1363720.875,Person Incharge : A
+North,Ladakh,September,2020,Sales,6,Commission,818232.525,Person Incharge : A
+North,Ladakh,October,2020,Sales,7,Commission,490939.515,Person Incharge : A
+North,Ladakh,November,2020,Sales,8,Commission,294563.709,Person Incharge : A
+North,Ladakh,December,2020,Sales,9,Commission,490939.515,Person Incharge : A
+North,Ladakh,January,2020,Sales,10,Commission,294563.709,Person Incharge : A
+North,Ladakh,April,2020,Purchases,1,Purchases - Abroad,1136434.063,Person Incharge : A
+North,Ladakh,May,2020,Purchases,2,Purchases - Abroad,681860.438,Person Incharge : A
+North,Ladakh,June,2020,Purchases,3,Purchases - Abroad,409116.263,Person Incharge : A
+North,Ladakh,July,2020,Purchases,4,Purchases - Abroad,681860.438,Person Incharge : A
+North,Ladakh,August,2020,Purchases,5,Purchases - Abroad,409116.263,Person Incharge : A
+North,Ladakh,September,2020,Purchases,6,Purchases - Abroad,1136434.063,Person Incharge : A
+North,Ladakh,October,2020,Purchases,7,Purchases - Abroad,681860.438,Person Incharge : A
+North,Ladakh,November,2020,Purchases,8,Purchases - Abroad,409116.263,Person Incharge : A
+North,Ladakh,December,2020,Purchases,9,Purchases - Local,245469.758,Person Incharge : A
+North,Ladakh,January,2020,Purchases,10,Purchases - Local,409116.263,Person Incharge : A
+North,Ladakh,February,2020,Purchases,11,Purchases - Local,245469.758,Person Incharge : A
+North,Ladakh,March,2020,Purchases,12,Purchases - Local,681860.438,Person Incharge : A
+North,Ladakh,April,2020,Expense,1,Computer Maintenance,181829.45,Person Incharge : A
+North,Ladakh,July,2020,Expense,2,Computer Maintenance,109097.67,Person Incharge : A
+North,Ladakh,October,2020,Expense,3,Computer Maintenance,65458.602,Person Incharge : A
+North,Ladakh,January,2020,Expense,4,Computer Maintenance,109097.67,Person Incharge : A
+North,Ladakh,April,2020,Expense,5,Misc Expense,204558.131,Person Incharge : A
+North,Ladakh,May,2020,Expense,6,Misc Expense,122734.879,Person Incharge : A
+North,Ladakh,June,2020,Expense,7,Misc Expense,73640.927,Person Incharge : A
+North,Ladakh,July,2020,Expense,8,Misc Expense,122734.879,Person Incharge : A
+North,Ladakh,August,2020,Expense,9,Misc Expense,73640.927,Person Incharge : A
+North,Ladakh,September,2020,Expense,10,Misc Expense,204558.131,Person Incharge : A
+North,Ladakh,October,2020,Expense,11,Misc Expense,122734.879,Person Incharge : A
+North,Ladakh,November,2020,Expense,12,Misc Expense,73640.927,Person Incharge : A
+North,Ladakh,December,2020,Expense,13,Misc Expense,44184.556,Person Incharge : A
+North,Ladakh,January,2020,Expense,14,Misc Expense,73640.927,Person Incharge : A
+North,Ladakh,February,2020,Expense,15,Misc Expense,44184.556,Person Incharge : A
+North,Ladakh,March,2020,Expense,16,Misc Expense,122734.879,Person Incharge : A
+North,Ladakh,April,2020,Expense,17,Repairs and Maintenance,227286.813,Person Incharge : A
+North,Ladakh,May,2020,Expense,18,Repairs and Maintenance,136372.088,Person Incharge : A
+North,Ladakh,June,2020,Expense,19,Repairs and Maintenance,81823.253,Person Incharge : A
+North,Ladakh,July,2020,Expense,20,Repairs and Maintenance,136372.088,Person Incharge : A
+North,Ladakh,August,2020,Expense,21,Repairs and Maintenance,81823.253,Person Incharge : A
+North,Ladakh,September,2020,Expense,22,Repairs and Maintenance,227286.813,Person Incharge : A
+North,Ladakh,October,2020,Expense,23,Repairs and Maintenance,136372.088,Person Incharge : A
+North,Ladakh,November,2020,Expense,24,Repairs and Maintenance,81823.253,Person Incharge : A
+North,Ladakh,December,2020,Expense,25,Repairs and Maintenance,49093.952,Person Incharge : A
+North,Ladakh,January,2020,Expense,26,Repairs and Maintenance,81823.253,Person Incharge : A
+North,Ladakh,February,2020,Expense,27,Repairs and Maintenance,49093.952,Person Incharge : A
+North,Ladakh,March,2020,Expense,28,Repairs and Maintenance,136372.088,Person Incharge : A
+North,Ladakh,April,2020,Expense,5,Salary and wages,295472.856,Person Incharge : A
+North,Ladakh,May,2020,Expense,6,Salary and wages,177283.714,Person Incharge : A
+North,Ladakh,June,2020,Expense,7,Salary and wages,106370.228,Person Incharge : A
+North,Ladakh,July,2020,Expense,8,Salary and wages,177283.714,Person Incharge : A
+North,Ladakh,August,2020,Expense,9,Salary and wages,106370.228,Person Incharge : A
+North,Ladakh,September,2020,Expense,10,Salary and wages,295472.856,Person Incharge : A
+North,Ladakh,October,2020,Expense,11,Salary and wages,177283.714,Person Incharge : A
+North,Ladakh,November,2020,Expense,12,Salary and wages,106370.228,Person Incharge : A
+North,Ladakh,December,2020,Expense,13,Salary and wages,63822.137,Person Incharge : A
+North,Ladakh,January,2020,Expense,14,Salary and wages,106370.228,Person Incharge : A
+North,Ladakh,February,2020,Expense,15,Salary and wages,63822.137,Person Incharge : A
+North,Ladakh,March,2020,Expense,16,Salary and wages,177283.714,Person Incharge : A
+North,Jammu and Kashmir,April,2020,Sales,1,Sales International,1818294.5,Person Incharge : B
+North,Jammu and Kashmir,May,2020,Sales,2,Sales International,1090976.7,Person Incharge : B
+North,Jammu and Kashmir,June,2020,Sales,3,Commission,654586.02,Person Incharge : B
+North,Jammu and Kashmir,July,2020,Sales,4,Sales Local,1090976.7,Person Incharge : B
+North,Jammu and Kashmir,August,2020,Sales,5,Sales International,654586.02,Person Incharge : B
+North,Jammu and Kashmir,September,2020,Sales,6,Sales International,1818294.5,Person Incharge : B
+North,Jammu and Kashmir,October,2020,Sales,7,Sales Local,1090976.7,Person Incharge : B
+North,Jammu and Kashmir,November,2020,Sales,8,Sales Local,654586.02,Person Incharge : B
+North,Jammu and Kashmir,December,2020,Sales,9,Sales Local,392751.612,Person Incharge : B
+North,Jammu and Kashmir,January,2020,Sales,10,Sales Local,654586.02,Person Incharge : B
+North,Jammu and Kashmir,February,2020,Sales,11,Sales International,392751.612,Person Incharge : B
+North,Jammu and Kashmir,March,2020,Sales,12,Sales Local,1090976.7,Person Incharge : B
+North,Jammu and Kashmir,September,2020,Sales,6,Commission,654586.02,Person Incharge : B
+North,Jammu and Kashmir,October,2020,Sales,7,Commission,392751.612,Person Incharge : B
+North,Jammu and Kashmir,November,2020,Sales,8,Commission,235650.967,Person Incharge : B
+North,Jammu and Kashmir,December,2020,Sales,9,Commission,392751.612,Person Incharge : B
+North,Jammu and Kashmir,January,2020,Sales,10,Commission,235650.967,Person Incharge : B
+North,Jammu and Kashmir,April,2020,Purchases,1,Purchases - Local,909147.25,Person Incharge : B
+North,Jammu and Kashmir,May,2020,Purchases,2,Purchases - Local,545488.35,Person Incharge : B
+North,Jammu and Kashmir,June,2020,Purchases,3,Purchases - Local,327293.01,Person Incharge : B
+North,Jammu and Kashmir,July,2020,Purchases,4,Purchases - Local,545488.35,Person Incharge : B
+North,Jammu and Kashmir,August,2020,Purchases,5,Purchases - Local,327293.01,Person Incharge : B
+North,Jammu and Kashmir,September,2020,Purchases,6,Purchases - Local,909147.25,Person Incharge : B
+North,Jammu and Kashmir,October,2020,Purchases,7,Purchases - Local,545488.35,Person Incharge : B
+North,Jammu and Kashmir,November,2020,Purchases,8,Purchases - Local,327293.01,Person Incharge : B
+North,Jammu and Kashmir,December,2020,Purchases,9,Purchases - Abroad,196375.806,Person Incharge : B
+North,Jammu and Kashmir,January,2020,Purchases,10,Purchases - Abroad,327293.01,Person Incharge : B
+North,Jammu and Kashmir,February,2020,Purchases,11,Purchases - Abroad,196375.806,Person Incharge : B
+North,Jammu and Kashmir,March,2020,Purchases,12,Purchases - Abroad,545488.35,Person Incharge : B
+North,Jammu and Kashmir,April,2020,Expense,1,Computer Maintenance,145463.56,Person Incharge : B
+North,Jammu and Kashmir,July,2020,Expense,2,Computer Maintenance,87278.136,Person Incharge : B
+North,Jammu and Kashmir,October,2020,Expense,3,Computer Maintenance,52366.882,Person Incharge : B
+North,Jammu and Kashmir,January,2020,Expense,4,Computer Maintenance,87278.136,Person Incharge : B
+North,Jammu and Kashmir,April,2020,Expense,5,Misc Expense,163646.505,Person Incharge : B
+North,Jammu and Kashmir,May,2020,Expense,6,Misc Expense,98187.903,Person Incharge : B
+North,Jammu and Kashmir,June,2020,Expense,7,Misc Expense,58912.742,Person Incharge : B
+North,Jammu and Kashmir,July,2020,Expense,8,Misc Expense,98187.903,Person Incharge : B
+North,Jammu and Kashmir,August,2020,Expense,9,Misc Expense,58912.742,Person Incharge : B
+North,Jammu and Kashmir,September,2020,Expense,10,Misc Expense,163646.505,Person Incharge : B
+North,Jammu and Kashmir,October,2020,Expense,11,Misc Expense,98187.903,Person Incharge : B
+North,Jammu and Kashmir,November,2020,Expense,12,Misc Expense,58912.742,Person Incharge : B
+North,Jammu and Kashmir,December,2020,Expense,13,Misc Expense,35347.645,Person Incharge : B
+North,Jammu and Kashmir,January,2020,Expense,14,Misc Expense,58912.742,Person Incharge : B
+North,Jammu and Kashmir,February,2020,Expense,15,Misc Expense,35347.645,Person Incharge : B
+North,Jammu and Kashmir,March,2020,Expense,16,Misc Expense,98187.903,Person Incharge : B
+North,Jammu and Kashmir,April,2020,Expense,17,Repairs and Maintenance,181829.45,Person Incharge : B
+North,Jammu and Kashmir,May,2020,Expense,18,Repairs and Maintenance,109097.67,Person Incharge : B
+North,Jammu and Kashmir,June,2020,Expense,19,Repairs and Maintenance,65458.602,Person Incharge : B
+North,Jammu and Kashmir,July,2020,Expense,20,Repairs and Maintenance,109097.67,Person Incharge : B
+North,Jammu and Kashmir,August,2020,Expense,21,Repairs and Maintenance,65458.602,Person Incharge : B
+North,Jammu and Kashmir,September,2020,Expense,22,Repairs and Maintenance,181829.45,Person Incharge : B
+North,Jammu and Kashmir,October,2020,Expense,23,Repairs and Maintenance,109097.67,Person Incharge : B
+North,Jammu and Kashmir,November,2020,Expense,24,Repairs and Maintenance,65458.602,Person Incharge : B
+North,Jammu and Kashmir,December,2020,Expense,25,Repairs and Maintenance,39275.161,Person Incharge : B
+North,Jammu and Kashmir,January,2020,Expense,26,Repairs and Maintenance,65458.602,Person Incharge : B
+North,Jammu and Kashmir,February,2020,Expense,27,Repairs and Maintenance,39275.161,Person Incharge : B
+North,Jammu and Kashmir,March,2020,Expense,28,Repairs and Maintenance,109097.67,Person Incharge : B
+North,Jammu and Kashmir,April,2020,Expense,5,Salary and wages,236378.285,Person Incharge : B
+North,Jammu and Kashmir,May,2020,Expense,6,Salary and wages,141826.971,Person Incharge : B
+North,Jammu and Kashmir,June,2020,Expense,7,Salary and wages,85096.183,Person Incharge : B
+North,Jammu and Kashmir,July,2020,Expense,8,Salary and wages,141826.971,Person Incharge : B
+North,Jammu and Kashmir,August,2020,Expense,9,Salary and wages,85096.183,Person Incharge : B
+North,Jammu and Kashmir,September,2020,Expense,10,Salary and wages,236378.285,Person Incharge : B
+North,Jammu and Kashmir,October,2020,Expense,11,Salary and wages,141826.971,Person Incharge : B
+North,Jammu and Kashmir,November,2020,Expense,12,Salary and wages,85096.183,Person Incharge : B
+North,Jammu and Kashmir,December,2020,Expense,13,Salary and wages,51057.71,Person Incharge : B
+North,Jammu and Kashmir,January,2020,Expense,14,Salary and wages,85096.183,Person Incharge : B
+North,Jammu and Kashmir,February,2020,Expense,15,Salary and wages,51057.71,Person Incharge : B
+North,Jammu and Kashmir,March,2020,Expense,16,Salary and wages,141826.971,Person Incharge : B
+North,Punjab,April,2020,Sales,1,Sales International,727317.8,Person Incharge : B
+North,Punjab,May,2020,Sales,2,Sales International,436390.68,Person Incharge : B
+North,Punjab,June,2020,Sales,3,Commission,261834.408,Person Incharge : B
+North,Punjab,July,2020,Sales,4,Sales Local,436390.68,Person Incharge : B
+North,Punjab,August,2020,Sales,5,Sales International,261834.408,Person Incharge : B
+North,Punjab,September,2020,Sales,6,Sales International,727317.8,Person Incharge : B
+North,Punjab,October,2020,Sales,7,Sales Local,436390.68,Person Incharge : B
+North,Punjab,November,2020,Sales,8,Sales Local,261834.408,Person Incharge : B
+North,Punjab,December,2020,Sales,9,Sales Local,157100.645,Person Incharge : B
+North,Punjab,January,2020,Sales,10,Sales Local,261834.408,Person Incharge : B
+North,Punjab,February,2020,Sales,11,Sales International,157100.645,Person Incharge : B
+North,Punjab,March,2020,Sales,12,Sales Local,436390.68,Person Incharge : B
+North,Punjab,September,2020,Sales,6,Commission,261834.408,Person Incharge : B
+North,Punjab,October,2020,Sales,7,Commission,157100.645,Person Incharge : B
+North,Punjab,November,2020,Sales,8,Commission,94260.387,Person Incharge : B
+North,Punjab,December,2020,Sales,9,Commission,157100.645,Person Incharge : B
+North,Punjab,January,2020,Sales,10,Commission,94260.387,Person Incharge : B
+North,Punjab,April,2020,Purchases,1,Purchases - Abroad,681860.438,Person Incharge : B
+North,Punjab,May,2020,Purchases,2,Purchases - Abroad,409116.263,Person Incharge : B
+North,Punjab,June,2020,Purchases,3,Purchases - Abroad,245469.758,Person Incharge : B
+North,Punjab,July,2020,Purchases,4,Purchases - Abroad,409116.263,Person Incharge : B
+North,Punjab,August,2020,Purchases,5,Purchases - Abroad,245469.758,Person Incharge : B
+North,Punjab,September,2020,Purchases,6,Purchases - Local,681860.438,Person Incharge : B
+North,Punjab,October,2020,Purchases,7,Purchases - Local,409116.263,Person Incharge : B
+North,Punjab,November,2020,Purchases,8,Purchases - Local,245469.758,Person Incharge : B
+North,Punjab,December,2020,Purchases,9,Purchases - Local,147281.855,Person Incharge : B
+North,Punjab,January,2020,Purchases,10,Purchases - Abroad,245469.758,Person Incharge : B
+North,Punjab,February,2020,Purchases,11,Purchases - Abroad,147281.855,Person Incharge : B
+North,Punjab,March,2020,Purchases,12,Purchases - Abroad,409116.263,Person Incharge : B
+North,Punjab,April,2020,Expense,1,Computer Maintenance,109097.67,Person Incharge : B
+North,Punjab,July,2020,Expense,2,Computer Maintenance,65458.602,Person Incharge : B
+North,Punjab,October,2020,Expense,3,Computer Maintenance,39275.161,Person Incharge : B
+North,Punjab,January,2020,Expense,4,Computer Maintenance,65458.602,Person Incharge : B
+North,Punjab,April,2020,Expense,5,Misc Expense,122734.879,Person Incharge : B
+North,Punjab,May,2020,Expense,6,Misc Expense,73640.927,Person Incharge : B
+North,Punjab,June,2020,Expense,7,Misc Expense,44184.556,Person Incharge : B
+North,Punjab,July,2020,Expense,8,Misc Expense,73640.927,Person Incharge : B
+North,Punjab,August,2020,Expense,9,Misc Expense,44184.556,Person Incharge : B
+North,Punjab,September,2020,Expense,10,Misc Expense,122734.879,Person Incharge : B
+North,Punjab,October,2020,Expense,11,Misc Expense,73640.927,Person Incharge : B
+North,Punjab,November,2020,Expense,12,Misc Expense,44184.556,Person Incharge : B
+North,Punjab,December,2020,Expense,13,Misc Expense,26510.734,Person Incharge : B
+North,Punjab,January,2020,Expense,14,Misc Expense,44184.556,Person Incharge : B
+North,Punjab,February,2020,Expense,15,Misc Expense,26510.734,Person Incharge : B
+North,Punjab,March,2020,Expense,16,Misc Expense,73640.927,Person Incharge : B
+North,Punjab,April,2020,Expense,17,Repairs and Maintenance,136372.088,Person Incharge : B
+North,Punjab,May,2020,Expense,18,Repairs and Maintenance,81823.253,Person Incharge : B
+North,Punjab,June,2020,Expense,19,Repairs and Maintenance,49093.952,Person Incharge : B
+North,Punjab,July,2020,Expense,20,Repairs and Maintenance,81823.253,Person Incharge : B
+North,Punjab,August,2020,Expense,21,Repairs and Maintenance,49093.952,Person Incharge : B
+North,Punjab,September,2020,Expense,22,Repairs and Maintenance,136372.088,Person Incharge : B
+North,Punjab,October,2020,Expense,23,Repairs and Maintenance,81823.253,Person Incharge : B
+North,Punjab,November,2020,Expense,24,Repairs and Maintenance,49093.952,Person Incharge : B
+North,Punjab,December,2020,Expense,25,Repairs and Maintenance,29456.371,Person Incharge : B
+North,Punjab,January,2020,Expense,26,Repairs and Maintenance,49093.952,Person Incharge : B
+North,Punjab,February,2020,Expense,27,Repairs and Maintenance,29456.371,Person Incharge : B
+North,Punjab,March,2020,Expense,28,Repairs and Maintenance,81823.253,Person Incharge : B
+North,Punjab,April,2020,Expense,5,Salary and wages,177283.714,Person Incharge : B
+North,Punjab,May,2020,Expense,6,Salary and wages,106370.228,Person Incharge : B
+North,Punjab,June,2020,Expense,7,Salary and wages,63822.137,Person Incharge : B
+North,Punjab,July,2020,Expense,8,Salary and wages,106370.228,Person Incharge : B
+North,Punjab,August,2020,Expense,9,Salary and wages,63822.137,Person Incharge : B
+North,Punjab,September,2020,Expense,10,Salary and wages,177283.714,Person Incharge : B
+North,Punjab,October,2020,Expense,11,Salary and wages,106370.228,Person Incharge : B
+North,Punjab,November,2020,Expense,12,Salary and wages,63822.137,Person Incharge : B
+North,Punjab,December,2020,Expense,13,Salary and wages,38293.282,Person Incharge : B
+North,Punjab,January,2020,Expense,14,Salary and wages,63822.137,Person Incharge : B
+North,Punjab,February,2020,Expense,15,Salary and wages,38293.282,Person Incharge : B
+North,Punjab,March,2020,Expense,16,Salary and wages,106370.228,Person Incharge : B
+East,Manipur,April,2020,Sales,1,Sales International,852325.547,Person Incharge : C
+East,Manipur,May,2020,Sales,2,Sales International,511395.328,Person Incharge : C
+East,Manipur,June,2020,Sales,3,Commission,852325.547,Person Incharge : C
+East,Manipur,July,2020,Sales,4,Sales Local,511395.328,Person Incharge : C
+East,Manipur,August,2020,Sales,5,Sales International,1420542.578,Person Incharge : C
+East,Manipur,September,2020,Sales,6,Sales International,852325.547,Person Incharge : C
+East,Manipur,October,2020,Sales,7,Sales Local,511395.328,Person Incharge : C
+East,Manipur,November,2020,Sales,8,Sales Local,306837.197,Person Incharge : C
+East,Manipur,December,2020,Sales,9,Sales Local,511395.328,Person Incharge : C
+East,Manipur,January,2020,Sales,10,Sales Local,306837.197,Person Incharge : C
+East,Manipur,February,2020,Sales,11,Sales International,852325.547,Person Incharge : C
+East,Manipur,March,2020,Sales,12,Sales Local,511395.328,Person Incharge : C
+East,Manipur,September,2020,Sales,6,Commission,306837.197,Person Incharge : C
+East,Manipur,October,2020,Sales,7,Commission,184102.318,Person Incharge : C
+East,Manipur,November,2020,Sales,8,Commission,306837.197,Person Incharge : C
+East,Manipur,December,2020,Sales,9,Commission,184102.318,Person Incharge : C
+East,Manipur,January,2020,Sales,10,Commission,710271.289,Person Incharge : C
+East,Manipur,April,2020,Purchases,1,Purchases - Abroad,426162.773,Person Incharge : C
+East,Manipur,May,2020,Purchases,2,Purchases - Abroad,255697.664,Person Incharge : C
+East,Manipur,June,2020,Purchases,3,Purchases - Local,426162.773,Person Incharge : C
+East,Manipur,July,2020,Purchases,4,Purchases - Local,255697.664,Person Incharge : C
+East,Manipur,August,2020,Purchases,5,Purchases - Local,710271.289,Person Incharge : C
+East,Manipur,September,2020,Purchases,6,Purchases - Local,426162.773,Person Incharge : C
+East,Manipur,October,2020,Purchases,7,Purchases - Local,255697.664,Person Incharge : C
+East,Manipur,November,2020,Purchases,8,Purchases - Local,153418.598,Person Incharge : C
+East,Manipur,December,2020,Purchases,9,Purchases - Abroad,255697.664,Person Incharge : C
+East,Manipur,January,2020,Purchases,10,Purchases - Abroad,153418.598,Person Incharge : C
+East,Manipur,February,2020,Purchases,11,Purchases - Abroad,426162.773,Person Incharge : C
+East,Manipur,March,2020,Purchases,12,Purchases - Abroad,113643.406,Person Incharge : C
+East,Manipur,April,2020,Expense,1,Computer Maintenance,68186.044,Person Incharge : C
+East,Manipur,July,2020,Expense,2,Computer Maintenance,40911.626,Person Incharge : C
+East,Manipur,October,2020,Expense,3,Computer Maintenance,68186.044,Person Incharge : C
+East,Manipur,January,2020,Expense,4,Computer Maintenance,127848.832,Person Incharge : C
+East,Manipur,April,2020,Expense,5,Misc Expense,76709.299,Person Incharge : C
+East,Manipur,May,2020,Expense,6,Misc Expense,46025.58,Person Incharge : C
+East,Manipur,June,2020,Expense,7,Misc Expense,76709.299,Person Incharge : C
+East,Manipur,July,2020,Expense,8,Misc Expense,46025.58,Person Incharge : C
+East,Manipur,August,2020,Expense,9,Misc Expense,127848.832,Person Incharge : C
+East,Manipur,September,2020,Expense,10,Misc Expense,76709.299,Person Incharge : C
+East,Manipur,October,2020,Expense,11,Misc Expense,46025.58,Person Incharge : C
+East,Manipur,November,2020,Expense,12,Misc Expense,27615.348,Person Incharge : C
+East,Manipur,December,2020,Expense,13,Misc Expense,46025.58,Person Incharge : C
+East,Manipur,January,2020,Expense,14,Misc Expense,27615.348,Person Incharge : C
+East,Manipur,February,2020,Expense,15,Misc Expense,76709.299,Person Incharge : C
+East,Manipur,March,2020,Expense,16,Misc Expense,142054.258,Person Incharge : C
+East,Manipur,April,2020,Expense,17,Repairs and Maintenance,85232.555,Person Incharge : C
+East,Manipur,May,2020,Expense,18,Repairs and Maintenance,51139.533,Person Incharge : C
+East,Manipur,June,2020,Expense,19,Repairs and Maintenance,85232.555,Person Incharge : C
+East,Manipur,July,2020,Expense,20,Repairs and Maintenance,51139.533,Person Incharge : C
+East,Manipur,August,2020,Expense,21,Repairs and Maintenance,142054.258,Person Incharge : C
+East,Manipur,September,2020,Expense,22,Repairs and Maintenance,85232.555,Person Incharge : C
+East,Manipur,October,2020,Expense,23,Repairs and Maintenance,51139.533,Person Incharge : C
+East,Manipur,November,2020,Expense,24,Repairs and Maintenance,30683.72,Person Incharge : C
+East,Manipur,December,2020,Expense,25,Repairs and Maintenance,51139.533,Person Incharge : C
+East,Manipur,January,2020,Expense,26,Repairs and Maintenance,30683.72,Person Incharge : C
+East,Manipur,February,2020,Expense,27,Repairs and Maintenance,85232.555,Person Incharge : C
+East,Manipur,March,2020,Expense,28,Repairs and Maintenance,184670.535,Person Incharge : C
+East,Manipur,April,2020,Expense,5,Salary and wages,110802.321,Person Incharge : C
+East,Manipur,May,2020,Expense,6,Salary and wages,66481.393,Person Incharge : C
+East,Manipur,June,2020,Expense,7,Salary and wages,110802.321,Person Incharge : C
+East,Manipur,July,2020,Expense,8,Salary and wages,66481.393,Person Incharge : C
+East,Manipur,August,2020,Expense,9,Salary and wages,184670.535,Person Incharge : C
+East,Manipur,September,2020,Expense,10,Salary and wages,110802.321,Person Incharge : C
+East,Manipur,October,2020,Expense,11,Salary and wages,66481.393,Person Incharge : C
+East,Manipur,November,2020,Expense,12,Salary and wages,39888.836,Person Incharge : C
+East,Manipur,December,2020,Expense,13,Salary and wages,66481.393,Person Incharge : C
+East,Manipur,January,2020,Expense,14,Salary and wages,39888.836,Person Incharge : C
+East,Manipur,February,2020,Expense,15,Salary and wages,110802.321,Person Incharge : C
+East,Manipur,March,2020,Expense,16,Salary and wages,0,Person Incharge : C
+East,Nagaland,April,2020,Sales,1,Sales International,681860.438,Person Incharge : A
+East,Nagaland,May,2020,Sales,2,Sales International,409116.263,Person Incharge : A
+East,Nagaland,June,2020,Sales,3,Commission,681860.438,Person Incharge : A
+East,Nagaland,July,2020,Sales,4,Sales Local,409116.263,Person Incharge : A
+East,Nagaland,August,2020,Sales,5,Sales International,1136434.063,Person Incharge : A
+East,Nagaland,September,2020,Sales,6,Sales International,681860.438,Person Incharge : A
+East,Nagaland,October,2020,Sales,7,Sales Local,409116.263,Person Incharge : A
+East,Nagaland,November,2020,Sales,8,Sales Local,245469.758,Person Incharge : A
+East,Nagaland,December,2020,Sales,9,Sales Local,409116.263,Person Incharge : A
+East,Nagaland,January,2020,Sales,10,Sales Local,245469.758,Person Incharge : A
+East,Nagaland,February,2020,Sales,11,Sales International,681860.438,Person Incharge : A
+East,Nagaland,March,2020,Sales,12,Sales Local,409116.263,Person Incharge : A
+East,Nagaland,September,2020,Sales,6,Commission,245469.758,Person Incharge : A
+East,Nagaland,October,2020,Sales,7,Commission,147281.855,Person Incharge : A
+East,Nagaland,November,2020,Sales,8,Commission,245469.758,Person Incharge : A
+East,Nagaland,December,2020,Sales,9,Commission,147281.855,Person Incharge : A
+East,Nagaland,January,2020,Sales,10,Commission,568217.031,Person Incharge : A
+East,Nagaland,April,2020,Purchases,1,Purchases - Abroad,340930.219,Person Incharge : A
+East,Nagaland,May,2020,Purchases,2,Purchases - Abroad,204558.131,Person Incharge : A
+East,Nagaland,June,2020,Purchases,3,Purchases - Local,340930.219,Person Incharge : A
+East,Nagaland,July,2020,Purchases,4,Purchases - Local,204558.131,Person Incharge : A
+East,Nagaland,August,2020,Purchases,5,Purchases - Local,568217.031,Person Incharge : A
+East,Nagaland,September,2020,Purchases,6,Purchases - Local,340930.219,Person Incharge : A
+East,Nagaland,October,2020,Purchases,7,Purchases - Local,204558.131,Person Incharge : A
+East,Nagaland,November,2020,Purchases,8,Purchases - Local,122734.879,Person Incharge : A
+East,Nagaland,December,2020,Purchases,9,Purchases - Local,204558.131,Person Incharge : A
+East,Nagaland,January,2020,Purchases,10,Purchases - Local,122734.879,Person Incharge : A
+East,Nagaland,February,2020,Purchases,11,Purchases - Local,340930.219,Person Incharge : A
+East,Nagaland,March,2020,Purchases,12,Purchases - Local,90914.725,Person Incharge : A
+East,Nagaland,April,2020,Expense,1,Computer Maintenance,54548.835,Person Incharge : A
+East,Nagaland,July,2020,Expense,2,Computer Maintenance,32729.301,Person Incharge : A
+East,Nagaland,October,2020,Expense,3,Computer Maintenance,54548.835,Person Incharge : A
+East,Nagaland,January,2020,Expense,4,Computer Maintenance,102279.066,Person Incharge : A
+East,Nagaland,April,2020,Expense,5,Misc Expense,61367.439,Person Incharge : A
+East,Nagaland,May,2020,Expense,6,Misc Expense,36820.464,Person Incharge : A
+East,Nagaland,June,2020,Expense,7,Misc Expense,61367.439,Person Incharge : A
+East,Nagaland,July,2020,Expense,8,Misc Expense,36820.464,Person Incharge : A
+East,Nagaland,August,2020,Expense,9,Misc Expense,102279.066,Person Incharge : A
+East,Nagaland,September,2020,Expense,10,Misc Expense,61367.439,Person Incharge : A
+East,Nagaland,October,2020,Expense,11,Misc Expense,36820.464,Person Incharge : A
+East,Nagaland,November,2020,Expense,12,Misc Expense,22092.278,Person Incharge : A
+East,Nagaland,December,2020,Expense,13,Misc Expense,36820.464,Person Incharge : A
+East,Nagaland,January,2020,Expense,14,Misc Expense,22092.278,Person Incharge : A
+East,Nagaland,February,2020,Expense,15,Misc Expense,61367.439,Person Incharge : A
+East,Nagaland,March,2020,Expense,16,Misc Expense,113643.406,Person Incharge : A
+East,Nagaland,April,2020,Expense,17,Repairs and Maintenance,68186.044,Person Incharge : A
+East,Nagaland,May,2020,Expense,18,Repairs and Maintenance,40911.626,Person Incharge : A
+East,Nagaland,June,2020,Expense,19,Repairs and Maintenance,68186.044,Person Incharge : A
+East,Nagaland,July,2020,Expense,20,Repairs and Maintenance,40911.626,Person Incharge : A
+East,Nagaland,August,2020,Expense,21,Repairs and Maintenance,113643.406,Person Incharge : A
+East,Nagaland,September,2020,Expense,22,Repairs and Maintenance,68186.044,Person Incharge : A
+East,Nagaland,October,2020,Expense,23,Repairs and Maintenance,40911.626,Person Incharge : A
+East,Nagaland,November,2020,Expense,24,Repairs and Maintenance,24546.976,Person Incharge : A
+East,Nagaland,December,2020,Expense,25,Repairs and Maintenance,40911.626,Person Incharge : A
+East,Nagaland,January,2020,Expense,26,Repairs and Maintenance,24546.976,Person Incharge : A
+East,Nagaland,February,2020,Expense,27,Repairs and Maintenance,68186.044,Person Incharge : A
+East,Nagaland,March,2020,Expense,28,Repairs and Maintenance,147736.428,Person Incharge : A
+East,Nagaland,April,2020,Expense,5,Salary and wages,88641.857,Person Incharge : A
+East,Nagaland,May,2020,Expense,6,Salary and wages,53185.114,Person Incharge : A
+East,Nagaland,June,2020,Expense,7,Salary and wages,88641.857,Person Incharge : A
+East,Nagaland,July,2020,Expense,8,Salary and wages,53185.114,Person Incharge : A
+East,Nagaland,August,2020,Expense,9,Salary and wages,147736.428,Person Incharge : A
+East,Nagaland,September,2020,Expense,10,Salary and wages,88641.857,Person Incharge : A
+East,Nagaland,October,2020,Expense,11,Salary and wages,53185.114,Person Incharge : A
+East,Nagaland,November,2020,Expense,12,Salary and wages,31911.068,Person Incharge : A
+East,Nagaland,December,2020,Expense,13,Salary and wages,53185.114,Person Incharge : A
+East,Nagaland,January,2020,Expense,14,Salary and wages,31911.068,Person Incharge : A
+East,Nagaland,February,2020,Expense,15,Salary and wages,88641.857,Person Incharge : A
+East,Nagaland,March,2020,Expense,16,Salary and wages,23012.79,Person Incharge : A
+East,Mizoram,April,2020,Sales,1,Sales International,454573.625,Person Incharge : D
+East,Mizoram,May,2020,Sales,2,Sales International,272744.175,Person Incharge : D
+East,Mizoram,June,2020,Sales,3,Commission,163646.505,Person Incharge : D
+East,Mizoram,July,2020,Sales,4,Sales Local,272744.175,Person Incharge : D
+East,Mizoram,August,2020,Sales,5,Sales International,163646.505,Person Incharge : D
+East,Mizoram,September,2020,Sales,6,Sales International,454573.625,Person Incharge : D
+East,Mizoram,October,2020,Sales,7,Sales Local,272744.175,Person Incharge : D
+East,Mizoram,November,2020,Sales,8,Sales Local,163646.505,Person Incharge : D
+East,Mizoram,December,2020,Sales,9,Sales Local,98187.903,Person Incharge : D
+East,Mizoram,January,2020,Sales,10,Sales Local,163646.505,Person Incharge : D
+East,Mizoram,February,2020,Sales,11,Sales International,98187.903,Person Incharge : D
+East,Mizoram,March,2020,Sales,12,Sales Local,272744.175,Person Incharge : D
+East,Mizoram,September,2020,Sales,6,Commission,163646.505,Person Incharge : D
+East,Mizoram,October,2020,Sales,7,Commission,98187.903,Person Incharge : D
+East,Mizoram,November,2020,Sales,8,Commission,58912.742,Person Incharge : D
+East,Mizoram,December,2020,Sales,9,Commission,98187.903,Person Incharge : D
+East,Mizoram,January,2020,Sales,10,Commission,58912.742,Person Incharge : D
+East,Mizoram,April,2020,Purchases,1,Purchases - Local,426162.773,Person Incharge : D
+East,Mizoram,May,2020,Purchases,2,Purchases - Local,255697.664,Person Incharge : D
+East,Mizoram,June,2020,Purchases,3,Purchases - Local,153418.598,Person Incharge : D
+East,Mizoram,July,2020,Purchases,4,Purchases - Local,255697.664,Person Incharge : D
+East,Mizoram,August,2020,Purchases,5,Purchases - Local,153418.598,Person Incharge : D
+East,Mizoram,September,2020,Purchases,6,Purchases - Local,426162.773,Person Incharge : D
+East,Mizoram,October,2020,Purchases,7,Purchases - Local,255697.664,Person Incharge : D
+East,Mizoram,November,2020,Purchases,8,Purchases - Local,153418.598,Person Incharge : D
+East,Mizoram,December,2020,Purchases,9,Purchases - Local,92051.159,Person Incharge : D
+East,Mizoram,January,2020,Purchases,10,Purchases - Abroad,153418.598,Person Incharge : D
+East,Mizoram,February,2020,Purchases,11,Purchases - Abroad,92051.159,Person Incharge : D
+East,Mizoram,March,2020,Purchases,12,Purchases - Abroad,255697.664,Person Incharge : D
+East,Mizoram,April,2020,Expense,1,Computer Maintenance,68186.044,Person Incharge : D
+East,Mizoram,July,2020,Expense,2,Computer Maintenance,40911.626,Person Incharge : D
+East,Mizoram,October,2020,Expense,3,Computer Maintenance,24546.976,Person Incharge : D
+East,Mizoram,January,2020,Expense,4,Computer Maintenance,40911.626,Person Incharge : D
+East,Mizoram,April,2020,Expense,5,Misc Expense,76709.299,Person Incharge : D
+East,Mizoram,May,2020,Expense,6,Misc Expense,46025.58,Person Incharge : D
+East,Mizoram,June,2020,Expense,7,Misc Expense,27615.348,Person Incharge : D
+East,Mizoram,July,2020,Expense,8,Misc Expense,46025.58,Person Incharge : D
+East,Mizoram,August,2020,Expense,9,Misc Expense,27615.348,Person Incharge : D
+East,Mizoram,September,2020,Expense,10,Misc Expense,76709.299,Person Incharge : D
+East,Mizoram,October,2020,Expense,11,Misc Expense,46025.58,Person Incharge : D
+East,Mizoram,November,2020,Expense,12,Misc Expense,27615.348,Person Incharge : D
+East,Mizoram,December,2020,Expense,13,Misc Expense,16569.209,Person Incharge : D
+East,Mizoram,January,2020,Expense,14,Misc Expense,27615.348,Person Incharge : D
+East,Mizoram,February,2020,Expense,15,Misc Expense,16569.209,Person Incharge : D
+East,Mizoram,March,2020,Expense,16,Misc Expense,46025.58,Person Incharge : D
+East,Mizoram,April,2020,Expense,17,Repairs and Maintenance,85232.555,Person Incharge : D
+East,Mizoram,May,2020,Expense,18,Repairs and Maintenance,51139.533,Person Incharge : D
+East,Mizoram,June,2020,Expense,19,Repairs and Maintenance,30683.72,Person Incharge : D
+East,Mizoram,July,2020,Expense,20,Repairs and Maintenance,51139.533,Person Incharge : D
+East,Mizoram,August,2020,Expense,21,Repairs and Maintenance,30683.72,Person Incharge : D
+East,Mizoram,September,2020,Expense,22,Repairs and Maintenance,85232.555,Person Incharge : D
+East,Mizoram,October,2020,Expense,23,Repairs and Maintenance,51139.533,Person Incharge : D
+East,Mizoram,November,2020,Expense,24,Repairs and Maintenance,30683.72,Person Incharge : D
+East,Mizoram,December,2020,Expense,25,Repairs and Maintenance,18410.232,Person Incharge : D
+East,Mizoram,January,2020,Expense,26,Repairs and Maintenance,30683.72,Person Incharge : D
+East,Mizoram,February,2020,Expense,27,Repairs and Maintenance,18410.232,Person Incharge : D
+East,Mizoram,March,2020,Expense,28,Repairs and Maintenance,51139.533,Person Incharge : D
+East,Mizoram,April,2020,Expense,5,Salary and wages,110802.321,Person Incharge : D
+East,Mizoram,May,2020,Expense,6,Salary and wages,66481.393,Person Incharge : D
+East,Mizoram,June,2020,Expense,7,Salary and wages,39888.836,Person Incharge : D
+East,Mizoram,July,2020,Expense,8,Salary and wages,66481.393,Person Incharge : D
+East,Mizoram,August,2020,Expense,9,Salary and wages,39888.836,Person Incharge : D
+East,Mizoram,September,2020,Expense,10,Salary and wages,110802.321,Person Incharge : D
+East,Mizoram,October,2020,Expense,11,Salary and wages,66481.393,Person Incharge : D
+East,Mizoram,November,2020,Expense,12,Salary and wages,39888.836,Person Incharge : D
+East,Mizoram,December,2020,Expense,13,Salary and wages,23933.301,Person Incharge : D
+East,Mizoram,January,2020,Expense,14,Salary and wages,39888.836,Person Incharge : D
+East,Mizoram,February,2020,Expense,15,Salary and wages,23933.301,Person Incharge : D
+East,Mizoram,March,2020,Expense,16,Salary and wages,66481.393,Person Incharge : D
+West,Gujarat,April,2020,Sales,1,Sales International,532703.467,Person Incharge : A
+West,Gujarat,May,2020,Sales,2,Sales International,319622.08,Person Incharge : A
+West,Gujarat,June,2020,Sales,3,Commission,532703.467,Person Incharge : A
+West,Gujarat,July,2020,Sales,4,Sales Local,319622.08,Person Incharge : A
+West,Gujarat,August,2020,Sales,5,Sales International,887839.111,Person Incharge : A
+West,Gujarat,September,2020,Sales,6,Sales International,532703.467,Person Incharge : A
+West,Gujarat,October,2020,Sales,7,Sales Local,319622.08,Person Incharge : A
+West,Gujarat,November,2020,Sales,8,Sales Local,191773.248,Person Incharge : A
+West,Gujarat,December,2020,Sales,9,Sales Local,319622.08,Person Incharge : A
+West,Gujarat,January,2020,Sales,10,Sales Local,191773.248,Person Incharge : A
+West,Gujarat,February,2020,Sales,11,Sales International,532703.467,Person Incharge : A
+West,Gujarat,March,2020,Sales,12,Sales Local,319622.08,Person Incharge : A
+West,Gujarat,September,2020,Sales,6,Commission,191773.248,Person Incharge : A
+West,Gujarat,October,2020,Sales,7,Commission,115063.949,Person Incharge : A
+West,Gujarat,November,2020,Sales,8,Commission,191773.248,Person Incharge : A
+West,Gujarat,December,2020,Sales,9,Commission,115063.949,Person Incharge : A
+West,Gujarat,January,2020,Sales,10,Commission,443919.556,Person Incharge : A
+West,Gujarat,April,2020,Purchases,1,Purchases - Abroad,266351.733,Person Incharge : A
+West,Gujarat,May,2020,Purchases,2,Purchases - Abroad,159811.04,Person Incharge : A
+West,Gujarat,June,2020,Purchases,3,Purchases - Abroad,266351.733,Person Incharge : A
+West,Gujarat,July,2020,Purchases,4,Purchases - Abroad,159811.04,Person Incharge : A
+West,Gujarat,August,2020,Purchases,5,Purchases - Abroad,443919.556,Person Incharge : A
+West,Gujarat,September,2020,Purchases,6,Purchases - Local,266351.733,Person Incharge : A
+West,Gujarat,October,2020,Purchases,7,Purchases - Local,159811.04,Person Incharge : A
+West,Gujarat,November,2020,Purchases,8,Purchases - Local,95886.624,Person Incharge : A
+West,Gujarat,December,2020,Purchases,9,Purchases - Local,159811.04,Person Incharge : A
+West,Gujarat,January,2020,Purchases,10,Purchases - Local,95886.624,Person Incharge : A
+West,Gujarat,February,2020,Purchases,11,Purchases - Local,266351.733,Person Incharge : A
+West,Gujarat,March,2020,Purchases,12,Purchases - Local,71027.129,Person Incharge : A
+West,Gujarat,April,2020,Expense,1,Computer Maintenance,42616.277,Person Incharge : A
+West,Gujarat,July,2020,Expense,2,Computer Maintenance,25569.766,Person Incharge : A
+West,Gujarat,October,2020,Expense,3,Computer Maintenance,42616.277,Person Incharge : A
+West,Gujarat,January,2020,Expense,4,Computer Maintenance,79905.52,Person Incharge : A
+West,Gujarat,April,2020,Expense,5,Misc Expense,47943.312,Person Incharge : A
+West,Gujarat,May,2020,Expense,6,Misc Expense,28765.987,Person Incharge : A
+West,Gujarat,June,2020,Expense,7,Misc Expense,47943.312,Person Incharge : A
+West,Gujarat,July,2020,Expense,8,Misc Expense,28765.987,Person Incharge : A
+West,Gujarat,August,2020,Expense,9,Misc Expense,79905.52,Person Incharge : A
+West,Gujarat,September,2020,Expense,10,Misc Expense,47943.312,Person Incharge : A
+West,Gujarat,October,2020,Expense,11,Misc Expense,28765.987,Person Incharge : A
+West,Gujarat,November,2020,Expense,12,Misc Expense,17259.592,Person Incharge : A
+West,Gujarat,December,2020,Expense,13,Misc Expense,28765.987,Person Incharge : A
+West,Gujarat,January,2020,Expense,14,Misc Expense,17259.592,Person Incharge : A
+West,Gujarat,February,2020,Expense,15,Misc Expense,47943.312,Person Incharge : A
+West,Gujarat,March,2020,Expense,16,Misc Expense,88783.911,Person Incharge : A
+West,Gujarat,April,2020,Expense,17,Repairs and Maintenance,53270.347,Person Incharge : A
+West,Gujarat,May,2020,Expense,18,Repairs and Maintenance,31962.208,Person Incharge : A
+West,Gujarat,June,2020,Expense,19,Repairs and Maintenance,53270.347,Person Incharge : A
+West,Gujarat,July,2020,Expense,20,Repairs and Maintenance,31962.208,Person Incharge : A
+West,Gujarat,August,2020,Expense,21,Repairs and Maintenance,88783.911,Person Incharge : A
+West,Gujarat,September,2020,Expense,22,Repairs and Maintenance,53270.347,Person Incharge : A
+West,Gujarat,October,2020,Expense,23,Repairs and Maintenance,31962.208,Person Incharge : A
+West,Gujarat,November,2020,Expense,24,Repairs and Maintenance,19177.325,Person Incharge : A
+West,Gujarat,December,2020,Expense,25,Repairs and Maintenance,31962.208,Person Incharge : A
+West,Gujarat,January,2020,Expense,26,Repairs and Maintenance,19177.325,Person Incharge : A
+West,Gujarat,February,2020,Expense,27,Repairs and Maintenance,53270.347,Person Incharge : A
+West,Gujarat,March,2020,Expense,28,Repairs and Maintenance,115419.084,Person Incharge : A
+West,Gujarat,April,2020,Expense,5,Salary and wages,69251.451,Person Incharge : A
+West,Gujarat,May,2020,Expense,6,Salary and wages,41550.87,Person Incharge : A
+West,Gujarat,June,2020,Expense,7,Salary and wages,69251.451,Person Incharge : A
+West,Gujarat,July,2020,Expense,8,Salary and wages,41550.87,Person Incharge : A
+West,Gujarat,August,2020,Expense,9,Salary and wages,115419.084,Person Incharge : A
+West,Gujarat,September,2020,Expense,10,Salary and wages,69251.451,Person Incharge : A
+West,Gujarat,October,2020,Expense,11,Salary and wages,41550.87,Person Incharge : A
+West,Gujarat,November,2020,Expense,12,Salary and wages,24930.522,Person Incharge : A
+West,Gujarat,December,2020,Expense,13,Salary and wages,41550.87,Person Incharge : A
+West,Gujarat,January,2020,Expense,14,Salary and wages,24930.522,Person Incharge : A
+West,Gujarat,February,2020,Expense,15,Salary and wages,69251.451,Person Incharge : A
+West,Gujarat,March,2020,Expense,16,Salary and wages,34625.725,Person Incharge : A
+West,Maharashtra,April,2020,Sales,1,Sales International,426162.773,Person Incharge : B
+West,Maharashtra,May,2020,Sales,2,Sales International,255697.664,Person Incharge : B
+West,Maharashtra,June,2020,Sales,3,Commission,426162.773,Person Incharge : B
+West,Maharashtra,July,2020,Sales,4,Sales Local,255697.664,Person Incharge : B
+West,Maharashtra,August,2020,Sales,5,Sales International,710271.289,Person Incharge : B
+West,Maharashtra,September,2020,Sales,6,Sales International,426162.773,Person Incharge : B
+West,Maharashtra,October,2020,Sales,7,Sales Local,255697.664,Person Incharge : B
+West,Maharashtra,November,2020,Sales,8,Sales Local,153418.598,Person Incharge : B
+West,Maharashtra,December,2020,Sales,9,Sales Local,255697.664,Person Incharge : B
+West,Maharashtra,January,2020,Sales,10,Sales Local,153418.598,Person Incharge : B
+West,Maharashtra,February,2020,Sales,11,Sales International,426162.773,Person Incharge : B
+West,Maharashtra,March,2020,Sales,12,Sales Local,255697.664,Person Incharge : B
+West,Maharashtra,September,2020,Sales,6,Commission,153418.598,Person Incharge : B
+West,Maharashtra,October,2020,Sales,7,Commission,92051.159,Person Incharge : B
+West,Maharashtra,November,2020,Sales,8,Commission,153418.598,Person Incharge : B
+West,Maharashtra,December,2020,Sales,9,Commission,92051.159,Person Incharge : B
+West,Maharashtra,January,2020,Sales,10,Commission,355135.645,Person Incharge : B
+West,Maharashtra,April,2020,Purchases,1,Purchases - Local,213081.387,Person Incharge : B
+West,Maharashtra,May,2020,Purchases,2,Purchases - Local,127848.832,Person Incharge : B
+West,Maharashtra,June,2020,Purchases,3,Purchases - Local,213081.387,Person Incharge : B
+West,Maharashtra,July,2020,Purchases,4,Purchases - Local,127848.832,Person Incharge : B
+West,Maharashtra,August,2020,Purchases,5,Purchases - Local,355135.645,Person Incharge : B
+West,Maharashtra,September,2020,Purchases,6,Purchases - Local,213081.387,Person Incharge : B
+West,Maharashtra,October,2020,Purchases,7,Purchases - Local,127848.832,Person Incharge : B
+West,Maharashtra,November,2020,Purchases,8,Purchases - Local,76709.299,Person Incharge : B
+West,Maharashtra,December,2020,Purchases,9,Purchases - Abroad,127848.832,Person Incharge : B
+West,Maharashtra,January,2020,Purchases,10,Purchases - Abroad,76709.299,Person Incharge : B
+West,Maharashtra,February,2020,Purchases,11,Purchases - Abroad,213081.387,Person Incharge : B
+West,Maharashtra,March,2020,Purchases,12,Purchases - Abroad,56821.703,Person Incharge : B
+West,Maharashtra,April,2020,Expense,1,Computer Maintenance,34093.022,Person Incharge : B
+West,Maharashtra,July,2020,Expense,2,Computer Maintenance,20455.813,Person Incharge : B
+West,Maharashtra,October,2020,Expense,3,Computer Maintenance,34093.022,Person Incharge : B
+West,Maharashtra,January,2020,Expense,4,Computer Maintenance,63924.416,Person Incharge : B
+West,Maharashtra,April,2020,Expense,5,Misc Expense,38354.65,Person Incharge : B
+West,Maharashtra,May,2020,Expense,6,Misc Expense,23012.79,Person Incharge : B
+West,Maharashtra,June,2020,Expense,7,Misc Expense,38354.65,Person Incharge : B
+West,Maharashtra,July,2020,Expense,8,Misc Expense,23012.79,Person Incharge : B
+West,Maharashtra,August,2020,Expense,9,Misc Expense,63924.416,Person Incharge : B
+West,Maharashtra,September,2020,Expense,10,Misc Expense,38354.65,Person Incharge : B
+West,Maharashtra,October,2020,Expense,11,Misc Expense,23012.79,Person Incharge : B
+West,Maharashtra,November,2020,Expense,12,Misc Expense,13807.674,Person Incharge : B
+West,Maharashtra,December,2020,Expense,13,Misc Expense,23012.79,Person Incharge : B
+West,Maharashtra,January,2020,Expense,14,Misc Expense,13807.674,Person Incharge : B
+West,Maharashtra,February,2020,Expense,15,Misc Expense,38354.65,Person Incharge : B
+West,Maharashtra,March,2020,Expense,16,Misc Expense,71027.129,Person Incharge : B
+West,Maharashtra,April,2020,Expense,17,Repairs and Maintenance,42616.277,Person Incharge : B
+West,Maharashtra,May,2020,Expense,18,Repairs and Maintenance,25569.766,Person Incharge : B
+West,Maharashtra,June,2020,Expense,19,Repairs and Maintenance,42616.277,Person Incharge : B
+West,Maharashtra,July,2020,Expense,20,Repairs and Maintenance,25569.766,Person Incharge : B
+West,Maharashtra,August,2020,Expense,21,Repairs and Maintenance,71027.129,Person Incharge : B
+West,Maharashtra,September,2020,Expense,22,Repairs and Maintenance,42616.277,Person Incharge : B
+West,Maharashtra,October,2020,Expense,23,Repairs and Maintenance,25569.766,Person Incharge : B
+West,Maharashtra,November,2020,Expense,24,Repairs and Maintenance,15341.86,Person Incharge : B
+West,Maharashtra,December,2020,Expense,25,Repairs and Maintenance,25569.766,Person Incharge : B
+West,Maharashtra,January,2020,Expense,26,Repairs and Maintenance,15341.86,Person Incharge : B
+West,Maharashtra,February,2020,Expense,27,Repairs and Maintenance,42616.277,Person Incharge : B
+West,Maharashtra,March,2020,Expense,28,Repairs and Maintenance,92335.268,Person Incharge : B
+West,Maharashtra,April,2020,Expense,5,Salary and wages,55401.161,Person Incharge : B
+West,Maharashtra,May,2020,Expense,6,Salary and wages,33240.696,Person Incharge : B
+West,Maharashtra,June,2020,Expense,7,Salary and wages,55401.161,Person Incharge : B
+West,Maharashtra,July,2020,Expense,8,Salary and wages,33240.696,Person Incharge : B
+West,Maharashtra,August,2020,Expense,9,Salary and wages,92335.268,Person Incharge : B
+West,Maharashtra,September,2020,Expense,10,Salary and wages,55401.161,Person Incharge : B
+West,Maharashtra,October,2020,Expense,11,Salary and wages,33240.696,Person Incharge : B
+West,Maharashtra,November,2020,Expense,12,Salary and wages,19944.418,Person Incharge : B
+West,Maharashtra,December,2020,Expense,13,Salary and wages,33240.696,Person Incharge : B
+West,Maharashtra,January,2020,Expense,14,Salary and wages,19944.418,Person Incharge : B
+West,Maharashtra,February,2020,Expense,15,Salary and wages,55401.161,Person Incharge : B
+West,Maharashtra,March,2020,Expense,16,Salary and wages,14382.994,Person Incharge : B
+West,Rajasthan,April,2020,Sales,1,Sales International,568217.031,Person Incharge : C
+West,Rajasthan,May,2020,Sales,2,Sales International,284108.516,Person Incharge : C
+West,Rajasthan,June,2020,Sales,3,Commission,170465.109,Person Incharge : C
+West,Rajasthan,July,2020,Sales,4,Sales Local,102279.066,Person Incharge : C
+West,Rajasthan,August,2020,Sales,5,Sales International,170465.109,Person Incharge : C
+West,Rajasthan,September,2020,Sales,6,Sales International,102279.066,Person Incharge : C
+West,Rajasthan,October,2020,Sales,7,Sales Local,284108.516,Person Incharge : C
+West,Rajasthan,November,2020,Sales,8,Sales Local,170465.109,Person Incharge : C
+West,Rajasthan,December,2020,Sales,9,Sales Local,102279.066,Person Incharge : C
+West,Rajasthan,January,2020,Sales,10,Sales Local,61367.439,Person Incharge : C
+West,Rajasthan,February,2020,Sales,11,Sales International,102279.066,Person Incharge : C
+West,Rajasthan,March,2020,Sales,12,Sales Local,61367.439,Person Incharge : C
+West,Rajasthan,September,2020,Sales,6,Commission,170465.109,Person Incharge : C
+West,Rajasthan,October,2020,Sales,7,Commission,102279.066,Person Incharge : C
+West,Rajasthan,November,2020,Sales,8,Commission,61367.439,Person Incharge : C
+West,Rajasthan,December,2020,Sales,9,Commission,36820.464,Person Incharge : C
+West,Rajasthan,January,2020,Sales,10,Commission,61367.439,Person Incharge : C
+West,Rajasthan,April,2020,Purchases,1,Purchases - Abroad,36820.464,Person Incharge : C
+West,Rajasthan,May,2020,Purchases,2,Purchases - Abroad,266351.733,Person Incharge : C
+West,Rajasthan,June,2020,Purchases,3,Purchases - Abroad,159811.04,Person Incharge : C
+West,Rajasthan,July,2020,Purchases,4,Purchases - Abroad,95886.624,Person Incharge : C
+West,Rajasthan,August,2020,Purchases,5,Purchases - Abroad,159811.04,Person Incharge : C
+West,Rajasthan,September,2020,Purchases,6,Purchases - Local,95886.624,Person Incharge : C
+West,Rajasthan,October,2020,Purchases,7,Purchases - Local,266351.733,Person Incharge : C
+West,Rajasthan,November,2020,Purchases,8,Purchases - Local,159811.04,Person Incharge : C
+West,Rajasthan,December,2020,Purchases,9,Purchases - Local,95886.624,Person Incharge : C
+West,Rajasthan,January,2020,Purchases,10,Purchases - Local,57531.974,Person Incharge : C
+West,Rajasthan,February,2020,Purchases,11,Purchases - Local,95886.624,Person Incharge : C
+West,Rajasthan,March,2020,Purchases,12,Purchases - Local,57531.974,Person Incharge : C
+West,Rajasthan,April,2020,Expense,1,Computer Maintenance,159811.04,Person Incharge : C
+West,Rajasthan,July,2020,Expense,2,Computer Maintenance,42616.277,Person Incharge : C
+West,Rajasthan,October,2020,Expense,3,Computer Maintenance,25569.766,Person Incharge : C
+West,Rajasthan,January,2020,Expense,4,Computer Maintenance,15341.86,Person Incharge : C
+West,Rajasthan,April,2020,Expense,5,Misc Expense,25569.766,Person Incharge : C
+West,Rajasthan,May,2020,Expense,6,Misc Expense,47943.312,Person Incharge : C
+West,Rajasthan,June,2020,Expense,7,Misc Expense,28765.987,Person Incharge : C
+West,Rajasthan,July,2020,Expense,8,Misc Expense,17259.592,Person Incharge : C
+West,Rajasthan,August,2020,Expense,9,Misc Expense,28765.987,Person Incharge : C
+West,Rajasthan,September,2020,Expense,10,Misc Expense,17259.592,Person Incharge : C
+West,Rajasthan,October,2020,Expense,11,Misc Expense,47943.312,Person Incharge : C
+West,Rajasthan,November,2020,Expense,12,Misc Expense,28765.987,Person Incharge : C
+West,Rajasthan,December,2020,Expense,13,Misc Expense,17259.592,Person Incharge : C
+West,Rajasthan,January,2020,Expense,14,Misc Expense,10355.755,Person Incharge : C
+West,Rajasthan,February,2020,Expense,15,Misc Expense,17259.592,Person Incharge : C
+West,Rajasthan,March,2020,Expense,16,Misc Expense,10355.755,Person Incharge : C
+West,Rajasthan,April,2020,Expense,17,Repairs and Maintenance,28765.987,Person Incharge : C
+West,Rajasthan,May,2020,Expense,18,Repairs and Maintenance,53270.347,Person Incharge : C
+West,Rajasthan,June,2020,Expense,19,Repairs and Maintenance,31962.208,Person Incharge : C
+West,Rajasthan,July,2020,Expense,20,Repairs and Maintenance,19177.325,Person Incharge : C
+West,Rajasthan,August,2020,Expense,21,Repairs and Maintenance,31962.208,Person Incharge : C
+West,Rajasthan,September,2020,Expense,22,Repairs and Maintenance,19177.325,Person Incharge : C
+West,Rajasthan,October,2020,Expense,23,Repairs and Maintenance,53270.347,Person Incharge : C
+West,Rajasthan,November,2020,Expense,24,Repairs and Maintenance,31962.208,Person Incharge : C
+West,Rajasthan,December,2020,Expense,25,Repairs and Maintenance,19177.325,Person Incharge : C
+West,Rajasthan,January,2020,Expense,26,Repairs and Maintenance,11506.395,Person Incharge : C
+West,Rajasthan,February,2020,Expense,27,Repairs and Maintenance,19177.325,Person Incharge : C
+West,Rajasthan,March,2020,Expense,28,Repairs and Maintenance,11506.395,Person Incharge : C
+West,Rajasthan,April,2020,Expense,5,Salary and wages,31962.208,Person Incharge : C
+West,Rajasthan,May,2020,Expense,6,Salary and wages,69251.451,Person Incharge : C
+West,Rajasthan,June,2020,Expense,7,Salary and wages,41550.87,Person Incharge : C
+West,Rajasthan,July,2020,Expense,8,Salary and wages,24930.522,Person Incharge : C
+West,Rajasthan,August,2020,Expense,9,Salary and wages,41550.87,Person Incharge : C
+West,Rajasthan,September,2020,Expense,10,Salary and wages,24930.522,Person Incharge : C
+West,Rajasthan,October,2020,Expense,11,Salary and wages,69251.451,Person Incharge : C
+West,Rajasthan,November,2020,Expense,12,Salary and wages,41550.87,Person Incharge : C
+West,Rajasthan,December,2020,Expense,13,Salary and wages,24930.522,Person Incharge : C
+West,Rajasthan,January,2020,Expense,14,Salary and wages,14958.313,Person Incharge : C
+West,Rajasthan,February,2020,Expense,15,Salary and wages,24930.522,Person Incharge : C
+West,Rajasthan,March,2020,Expense,16,Salary and wages,14958.313,Person Incharge : C
