@@ -11,8 +11,8 @@ import dash_bootstrap_components as dbc
 import os
 
 # Wrangling ----------------------------------------------------------------------------------
-os.chdir = "D:\\Vignesh\\Personal\\Data Analyst\\Recent Projects\\Financial Dashboard\\Data"
-df = pd.read_csv('Data\\data.csv')
+url = "https://raw.githubusercontent.com/VigneshKrishnan-Analyst/Recent-Projects/main/Financial%20Dashboard/Data/data.csv"
+df = pd.read_csv(url)
 
 cls_df = pd.pivot_table(df, index=['Direction', 'State/UT', 'Year', 'Contact'], columns='Type', values="Amount",
                         aggfunc='sum').reset_index()
@@ -63,11 +63,11 @@ app.layout = dbc.Container([
 
         dbc.Row([
             dbc.Col([
-                dcc.Graph(id='starburst', figure={}
-                          )], xs=12, sm=12, md=12, lg=5, xl=5),
+                dcc.Graph(id='starburst', figure={},
+                          )], xs=12, sm=12, md=12, lg=6, xl=6, className='w-50 p-3'),
             dbc.Col([
                 dcc.Graph(id='line', figure={}
-                          )], xs=12, sm=12, md=12, lg=5, xl=5),
+                          )], xs=12, sm=12, md=12, lg=6, xl=6, className='w-50 p-3'),
         ]),
     ])
 ])
@@ -76,26 +76,62 @@ app.layout = dbc.Container([
 @app.callback(
     Output(component_id='starburst', component_property='figure'),
     Input(component_id='treemap', component_property='hoverData'),
-    Input(component_id='treemap', component_property='clickData')
+    Input(component_id='treemap', component_property='clickData'),
+    prevent_initial_call=True,
+    allow_duplicate=True
 )
 def update_starburst(hover_data, click_data):
-    entry = hover_data['points'][0]['entry'] if click_data['points'][0]['entry'] is None \
-        else click_data['points'][0]['entry']
-    print(entry)
-    if entry is None or entry == 2020:
-        ddf = df
-    elif entry in ["North", "South", "East", "West"]:
-        ddf = df.loc[df['Direction'] == entry]
+    if click_data is None and hover_data is None:
+        entry = "2020"
+    elif click_data is None:
+        entry = hover_data['points'][0]['id']
     else:
-        ddf = df.loc[df['State/UT'] == entry]
+        entry = click_data['points'][0]['id']
 
-    figure = px.sunburst(ddf, path=['Type', 'Account', ], values='Amount', template='plotly_dark',
-                         color_discrete_map={'Sales': 'Green',
-                                             'Expense': 'crimson',
-                                             'Purchases': 'Grey'},
-                         custom_data=['Account'])
+    entry_list = entry.split('/')
+
+    for i in entry_list:
+        if i in list(df['State/UT']):
+            ddf = df.loc[df['State/UT'] == i]
+            tx = f'Summarised chart for the {i} State/UT'
+        elif i in ["North", "South", "East", "West"]:
+            ddf = df.loc[df['Direction'] == i]
+            tx = f'Summarised chart for the {i} Region'
+        else:
+            ddf = df
+            tx = 'Summarised chart for the period 2020'
+
+    figure = px.sunburst(ddf, path=['Type', 'Account'], values='Amount', template='plotly_dark',
+                         title=tx, custom_data=['State/UT', 'Account'])
     return figure
 
+
+@app.callback(
+    Output(component_id='line', component_property='figure'),
+    Input(component_id='starburst', component_property='hoverData'),
+    Input(component_id='starburst', component_property='clickData'),
+    prevent_initial_call=True,
+    allow_duplicate=True
+)
+def line(hover_data, click_data):
+    if click_data is None and hover_data is None:
+        entry = ["2020"]
+    elif click_data is None:
+        entry = hover_data['points'][0]['customdata']
+    else:
+        entry = click_data['points'][0]['customdata']
+
+    for i in entry:
+        if i in list(df['Account']):
+            ddf = df.loc[(df['State/UT'] == i) | (df['Account'] == i)]  # Updated condition
+            tx = f'Monthly breakup chart for the Account {i}'  # Updated title
+        else:
+            ddf = df
+            tx = 'Monthly breakup chart for the period 2020'
+
+    figure = px.bar(ddf, x="Month", y='Amount', template='plotly_dark', color="Account",
+                    title=tx)
+    return figure
 
 if __name__ == '__main__':
 
