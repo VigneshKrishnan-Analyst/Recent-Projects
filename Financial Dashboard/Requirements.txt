@@ -1,5 +1,4 @@
 Dash==2.14.2
+dash-bootstrap-components
 pandas
 gunicorn
-plotly
-plotly express
